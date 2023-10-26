@@ -4,7 +4,7 @@ public class JavaIntroduction {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hola git cambios y más cambios");
+		System.out.print("Hola git cambios y más cambios, yo hago un cambio");
 		int number = 5;
 		String frase = "KilianJava";
 		char letra = 'k';
