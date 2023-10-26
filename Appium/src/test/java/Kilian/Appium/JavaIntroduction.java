@@ -21,6 +21,9 @@ public class JavaIntroduction {
 		arr[2] = 3;
 		arr[3] = 4;
 		arr[4] = 5;
+		arr[5] = 6;
+		arr[6] = 7;
+		arr[7] = 8;
 		
 		int[] arr2 = {1,2,3,4,5};
 		System.out.println(arr2[2]);
